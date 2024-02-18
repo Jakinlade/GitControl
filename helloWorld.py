@@ -1,3 +1,5 @@
-message = input("Enter the message: ")
+user_name = input("What's your name? ")
 
-print(message)
+message = input("Enter your message to the world: ")
+
+print("Hello " + user_name + ", your message is: " + message)

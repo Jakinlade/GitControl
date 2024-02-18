@@ -1,1 +1,3 @@
-print("Git is Awesome")
+message = input("Enter the message: ")
+
+print(message)
